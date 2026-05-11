@@ -3,6 +3,9 @@
 ## Overview
 End-to-end funnel analysis of 110M+ e-commerce events from a multi-category store (Oct-Nov 2019) using Python and Power BI.
 
+## Dashboard Preview
+![Dashboard](08_master_dashboard.png)
+
 ## Key Insights
 - Only 5.04% of viewers convert to purchase
 - 89.2% drop-off between View and Cart stage
